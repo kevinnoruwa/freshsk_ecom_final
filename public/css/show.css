@@ -24,6 +24,9 @@
 #show-section .inside .shoe-img img {
    max-width: 800px;
 }
+#show-section .inside .show-info  {
+    line-height: 1.4;
+}
 
 #show-section .inside .show-info .brand {
     font-size: 1.5rem;

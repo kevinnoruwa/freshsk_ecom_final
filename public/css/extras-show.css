@@ -24,7 +24,9 @@
 #extra-show-section .inside .extra-img img {
    max-width: 800px;
 }
-
+#extra-show-section .inside .show-info {
+    line-height: 1.4;
+}
 #extra-show-section .inside .show-info .brand {
     font-size: 1.5rem;
 

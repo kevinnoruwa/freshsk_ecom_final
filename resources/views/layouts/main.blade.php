@@ -29,6 +29,7 @@
                 <a href="/shopping-cart">
                     <div class="cart">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
+                        <span class="cart-alert-item active">1</span>
                     </div>
             
                 </a>  
@@ -116,14 +117,14 @@
     <footer>
         <div class="container">
             <div class="about-us">
-                <h3 class="title">ABOUT US</h3>
+                <h3 class="title title-p">ABOUT US</h3>
                 <li>Our Mission</li>
                 <li>Locations</li>
                 <li>Careers</li>
                 <li>journal</li>
             </div>
             <div class="Support">
-                <h3 class="title">SUPPORT</h3>
+                <h3 class="title title-p">SUPPORT</h3>
                 <li>FAQs</li>
                 <li>Accessibility</li>
                 <li>Delivery & Returns</li>

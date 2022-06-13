@@ -71,7 +71,7 @@
                         <img src="https://i.postimg.cc/6369WM6r/extra-home-page-img.png">
                     <div class="details-box">
                         <div class="contain">
-                            <li class="highlight">Freshk</li>
+                            <li class="highlight">Freshsk</li>
                             <hr class="hr">
                             <li class="box-header">Extras</li>
                             <p class="small-text">In need of some new laces or new shoe essentials? We got you. </p>

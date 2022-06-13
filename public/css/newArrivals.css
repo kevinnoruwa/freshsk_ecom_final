@@ -32,7 +32,9 @@
     
 }
 
-
+#new-arrivals .shoes {
+    line-height: 1.4;
+}
 
 #new-arrivals .shoes .container{
     max-width: 1150px;
