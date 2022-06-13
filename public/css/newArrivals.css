@@ -56,12 +56,12 @@
 
 #new-arrivals .shoes .container .shoe-box .shoe-img img{
     max-width: 383px;
-    transition: all .3s ease ;
+  
     width: 366px;
 }
 
 #new-arrivals .shoes .container .shoe-box .shoe-img img:hover {
-    transform: scale(0.95)
+   
    
 }
 

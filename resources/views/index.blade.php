@@ -7,7 +7,7 @@
         <div class="inside">
             <div class="banner-box">
                 <div class="inside-box">
-                    <li class="highlight">Hot Feets</li>
+                    <li class="highlight">Freshsk</li>
                     <hr class="hr">
                     <li class="box-header">We have the best gear</li>
                     <li class="small-text">Good deals & nice feets</li>
@@ -55,7 +55,7 @@
                     </div>
                     <div class="details-box">
                         <div class="contain">
-                            <li class="highlight">Hot Feets</li>
+                            <li class="highlight">Hot</li>
                             <hr class="hr">
                             <li class="box-header">Apparel</li>
                             <p class="small-text">Your chance to grab some nice clothes to match with your new shoes</p>
@@ -71,7 +71,7 @@
                         <img src="https://i.postimg.cc/6369WM6r/extra-home-page-img.png">
                     <div class="details-box">
                         <div class="contain">
-                            <li class="highlight">Hot Feets</li>
+                            <li class="highlight">Freshk</li>
                             <hr class="hr">
                             <li class="box-header">Extras</li>
                             <p class="small-text">In need of some new laces or new shoe essentials? We got you. </p>

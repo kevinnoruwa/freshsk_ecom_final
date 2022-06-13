@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="/css/owl.theme.default.min.css">
     <link rel="stylesheet" href="/css/main.css">
  
-    <title>Hot Feets</title>
+    <title>Freshsk</title>
 </head>
 <body>
     <header>
@@ -21,7 +21,7 @@
                 </div>
                 <a href="/">
                     <h1>
-                        <span>HOT FEETS</span>
+                        <span>FRESHSK</span>
                         <span class="r-symbol">&reg;</span>
                     </h1>
 
