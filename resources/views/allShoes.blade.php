@@ -8,7 +8,7 @@
                 <p>See the latest creations and classic styles from Nike, Jordan, Adidas, and more.</p>
             </div>
             <div class="shoe-img">
-                <img src="https://www.stadiumgoods.com/cdn-cgi/image/fit%3Dcontain%2Cformat%3Dauto%2Cwidth%3D1200/media/catalog/category/Air_Jordan_1_Category.jpg" alt="">
+                <img src="/img/all-shoes.webp" alt="">
             </div>
          
         </div>

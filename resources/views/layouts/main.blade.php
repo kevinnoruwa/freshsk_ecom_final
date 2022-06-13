@@ -21,7 +21,7 @@
                 </div>
                 <a href="/">
                     <h1>
-                        <span>HOT FEETS today</span>
+                        <span>HOT FEETS</span>
                         <span class="r-symbol">&reg;</span>
                     </h1>
 
