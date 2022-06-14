@@ -1,11 +1,14 @@
+    <?php  
 
-<?php  
+                    use App\Models\Cart;
+                   
 
- use App\Models\Cart;
+                    $products = Cart::userCartItems();
+                  
 
- $products = Cart::all();
 
-?>
+                ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -32,6 +35,7 @@
                     </h1>
 
                 </a>
+            
                 <a href="/shopping-cart">
                     <div class="cart">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>

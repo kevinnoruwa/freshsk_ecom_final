@@ -62,7 +62,7 @@ use App\Models\Cart;
             </div>
             <div class="total-box">
             <span>
-                {{count($items) >  0 ? "Subtotal" : null }}( {{count($items)}} {{count($items) !== 1 ? "items" : "item"}} ): 
+                {{count($items) >  0 ? "Subtotal" : null }}( <?php echo count($items); ?> {{count($items) !== 1 ? "items" : "item"}} ): 
                 <span class="highlight">${{$totalPrice}}</span>
             </span>
                 <button class="btn-submit">Proceed to Buy</button>

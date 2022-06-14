@@ -42,3 +42,6 @@ Route::Post('/add-to-cart', 'App\Http\Controllers\hotFeets@addtocart');
 // delete item from cart
 
 Route::delete('/item/{id}','App\Http\Controllers\hotFeets@delete');
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
