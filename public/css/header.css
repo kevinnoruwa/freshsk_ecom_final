@@ -79,6 +79,7 @@ header .inside .header-title-cart .cart {
 
  header .inside .header-title-cart .cart .cart-alert-item {
     visibility: hidden;
+    
     /* background: rgb(164, 29, 35); */
      background: rgba(232, 232, 232, 1);
      color: black;
