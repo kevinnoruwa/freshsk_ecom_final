@@ -19,6 +19,7 @@ class hotFeets extends Controller
     {
         $newShoes = allshoes::where('newarrival', '=', 1)->take(6)->get();
         $clothes = allshoes::where('cloth', '=', 1)->take(6)->get();
+      
         return view('index', compact(['newShoes', 'clothes']));
       
     }

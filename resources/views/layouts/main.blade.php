@@ -1,5 +1,11 @@
 
+<?php  
 
+ use App\Models\Cart;
+
+ $products = Cart::all();
+
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -29,7 +35,7 @@
                 <a href="/shopping-cart">
                     <div class="cart">
                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
-                        <span class="cart-alert-item active">1</span>
+                        <span class="cart-alert-item {{count($products) > 0 ? 'active' : ''}}  "> <?php echo count($products) ?></span>
                     </div>
             
                 </a>  
