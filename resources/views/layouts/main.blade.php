@@ -121,7 +121,7 @@
                 <li>Our Mission</li>
                 <li>Locations</li>
                 <li>Careers</li>
-                <li>journal</li>
+                <li>Journal</li>
             </div>
             <div class="Support">
                 <h3 class="title title-p">SUPPORT</h3>
