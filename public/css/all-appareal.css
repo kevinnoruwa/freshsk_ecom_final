@@ -17,7 +17,9 @@
 
 
 #appareal-banner .inside .shoe-details {
-    padding: 11px 0;
+    box-shadow: 0 6px 12px 0 rgb(0 0 0 / 10%);
+    line-height: 1.4;
+    padding: 10px 20px 10px 20px;
     background: white;
     position: relative;
     height: 120px;
